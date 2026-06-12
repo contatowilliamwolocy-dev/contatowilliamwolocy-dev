@@ -1,4 +1,4 @@
-OLÁ, Sou william estou na caminha de desenvolvedor front-end , atualmente aprendendo e costruindo projetos com:
+OLÁ, Sou william estou na caminhada de desenvolvedor front-end , atualmente aprendendo e costruindo projetos com:
 -
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -11,8 +11,8 @@ e estou iniciando no :
 no devclub:
 
 
-logo logo pretendo me especializar em todas essas areas e entrar em outras areas.
-enfrentar novos desafios e me tor nar um dezenvolvedor de otima qualidade:
+em breve pretendo me especializar em todas essas áreas e entrar em outras.
+enfrentar novos desafios e me tornar um bom desevolverdor:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
